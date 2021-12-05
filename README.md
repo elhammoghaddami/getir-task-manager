@@ -13,7 +13,7 @@ Simply clone the project or download and extract the .zip to get started.
 
 1. Run `npm install` to install app dependencies
 
-2. Run `npm start` in a separate terminal window to launch the web and RESTful API server
+2. Run `npm start` to launch the web application
 
 3. Go to http://localhost:3000 in your browser 
 

@@ -1,5 +1,5 @@
 # Task Manager
-    Manage the team's tasks<br>
+Manage the team's tasks<br>
 
 ## Used Technologies
 Reactjs, Redux
@@ -15,6 +15,6 @@ Simply clone the project or download and extract the .zip to get started.
 
 2. Run `npm start` in a separate terminal window to launch the web and RESTful API server
 
-3. Go to [http://localhost:3000] in your browser 
+3. Go to http://localhost:3000 in your browser 
 
 Enjoy :)

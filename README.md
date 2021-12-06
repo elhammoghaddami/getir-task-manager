@@ -6,7 +6,7 @@ Reactjs, Redux
 
 ### Requirements:
 - Node
-* Install the latest LTS version of Node.js from https://nodejs.org. IMPORTANT: The server uses ES2015 features AND the Angular CLI so you need a current version of Node.js.
+* Install the latest LTS version of Node.js from https://nodejs.org. 
 
 ## Run the Application
 Simply clone the project or download and extract the .zip to get started.
